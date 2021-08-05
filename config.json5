@@ -1,0 +1,15 @@
+{
+  "iknow-mongo-yt": {
+    "host": "192.168.1.211",
+    "port": 27017,
+    "user": "chenqianxing",
+    "password": "Chenqianxing@2021$"
+  },
+  "isee-mysql": {
+    "host": "192.168.11.101",
+    "port": 3306,
+    "user": "chenqianxing",
+    "password": "cqx_yucebio$",
+    "db_name": "isee"
+  }
+}
